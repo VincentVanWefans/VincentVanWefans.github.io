@@ -121,26 +121,10 @@ input, select, textarea {
 /* Typography */
 
 	html {
-		font-size: 18pt;
+		font-size: 16pt;
 	}
 
 		@media screen and (max-width: 1920px) {
-
-			html {
-				font-size: 13pt;
-			}
-
-		}
-
-		@media screen and (max-width: 1152px) {
-
-			html {
-				font-size: 14pt;
-			}
-
-		}
-
-		@media screen and (max-width: 736px) {
 
 			html {
 				font-size: 12pt;
@@ -148,10 +132,26 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 1152px) {
+
+			html {
+				font-size: 13pt;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
 
 			html {
 				font-size: 11pt;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			html {
+				font-size: 10pt;
 			}
 
 		}
@@ -165,7 +165,7 @@ input, select, textarea {
 		color: #000000;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 1rem;
-		font-weight: 300;
+		font-weight: 150;
 		letter-spacing: 0.0375em;
 		line-height: 2;
 	}
