@@ -7,18 +7,13 @@ categories: [Java]
 ---
 {% include codepiano/setup %}
 
-## 每周推荐
-
-[AndroidDeveloper Weekly No.4](http://stormzhang.com/weekly/2016/08/08/android-developer-weekly-no-4/)
-
-[Android开源项目推荐之「网络请求哪家强」](http://stormzhang.com/opensource/2016/08/05/android-open-source-project-recommend2/)
-
-[如何发现优秀的开源项目？](http://stormzhang.com/github/2016/07/28/learn-github-from-zero7/)
-
-[给 Android 初学者的 Gradle 知识普及](http://stormzhang.com/android/2016/07/02/gradle-for-android-beginners/)
+## 俺的信息
 
 
-* 我的微信公众号: AndroidDeveloper「googdev」 (专注Android的原创分享，关注并回复googdev自学Android资料免费获取)
+[VincentVanWefans的steam个人资料页](缺网页)
+
+
+* 我的微信: VincentVanWefans 
 
 <img src="/image/weixinpublic.jpg" />
 

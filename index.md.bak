@@ -2,8 +2,8 @@
 layout: page
 title: VincentVanWfans粘为帆's博客
 keywords: VincentVanWefans, android, java, android developer, performance
-description: Focus Android, Love Open Source, Performance Optimization, Coding now
-categories: [Android]
+description:Love Open Source, Performance Optimization, Coding now
+categories: [Java]
 ---
 {% include codepiano/setup %}
 
