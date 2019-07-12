@@ -1,8 +1,8 @@
 ---
 layout: page
 title: VincentVanWfans粘为帆's博客
-keywords: VincentVanWefans, android, java, android developer, performance
-description:Love Open Source, Performance Optimization, Coding now
+keywords: VincentVanWefans, android, java, performance
+description:Test Engineer,Steamer,Gamer,
 categories: [Java]
 ---
 {% include codepiano/setup %}
@@ -10,10 +10,13 @@ categories: [Java]
 ## 俺的信息
 
 
-[VincentVanWefans的steam个人资料页](缺网页)
+[VincentVanWefans的steam个人资料页](https://steamcommunity.com/id/326560253/)
+
+[VincentVanWefans的奶牛关个人评测页](https://cowlevel.net/people/Vanwefans/)
 
 
 * 我的微信: VincentVanWefans 
+<!--插入图片--》
 
 
 <br />
