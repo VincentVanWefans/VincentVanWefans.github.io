@@ -57,7 +57,7 @@
           </div>
           <div class="span8">
             <a class="brand" href="{{ HOME_PATH }}">
-              <span class="site-author"> {{ site.author.name }} </span>
+              <span class="site-author">VincentVanWefans </span>
               <span class="site-title"> /* {{ site.title }} */ </span>
             </a>
             <ul class="nav">

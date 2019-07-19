@@ -8,7 +8,6 @@ group: static
 
 {% highlight ruby %}
 name = 'VincentVanWefans'
-realname='粘为帆'
 company = '国网信通亿力科技'
 title = '测试工程师'
 skills = 'java, sql'
