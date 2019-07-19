@@ -5,7 +5,7 @@
     <title>{{ page.title }}</title>
     {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-    <meta name="author" content="VincentVanWefans">
+    <meta name="author" content="{{ site.author.name }}">
 
     <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -57,14 +57,9 @@
           </div>
           <div class="span8">
             <a class="brand" href="{{ HOME_PATH }}">
-              <span class="site-author">VincentVanWefans </span>
+              <span class="site-author"> {{ site.author.name }} </span>
               <span class="site-title"> /* {{ site.title }} */ </span>
             </a>
-            <ul class="nav">
-              {% assign pages_list = site.pages %}
-              {% assign group = 'navigation' %}
-              {% include codepiano/navigation_list %}
-            </ul>
           </div>
           <div class="span2">
           </div>
@@ -72,8 +67,15 @@
       </div>
 
       <!-- 正文 -->
-      {{ content }}
-
+      <div class="row-fluid typo">
+      <div class="span2"></div>
+      <div class="span8">
+        <br />
+        {{ content }}
+      </div>
+  <div class="span2"></div>
+</div>
+      
     {% include codepiano/analytics %}
   </body>
 </html>
