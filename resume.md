@@ -14,8 +14,8 @@ title = '测试工程师'
 skills = 'java, sql'
 
 email = 'dev$#qq.com'.gsub('$#', '@')
-blog = 'http://stormzhang.github.io'
-github = 'https://github.com/stormzhang'
+blog = 'http://VincentVanWefans.github.io'
+github = 'https://github.com/VincentVanWefans'
 
 while true
   programing

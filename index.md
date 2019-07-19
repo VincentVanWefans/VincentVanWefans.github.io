@@ -23,7 +23,7 @@ categories: [Java]
 
 <div id="comment-hook">
 <!-- 多说评论框 start -->
-	<div class="ds-thread" data-thread-key="88888" data-title="{{ page.title }}" data-url="http://stormzhang.com{{ page.url }}"></div>
+	<div class="ds-thread" data-thread-key="88888" data-title="{{ page.title }}" data-url="VincentVanWefans.github.io{{ page.url }}"></div>
 <!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">

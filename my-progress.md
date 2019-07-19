@@ -10,9 +10,9 @@ group: static
 我的大事记
 ===
 
-* 2019年7月，实际上没正式毕业就来福州上班了，被当作测试工程师。
+* 2019年7月，实际上没正式毕业就来福州上班了，被安排作为运行检修业务中心的测试工程师。
 
-* 2019年6月，毕业设计做的是JSP+SQL的网页管理系统，在毕业答辩上和老师吵了起来。
+* 2019年6月，毕业设计做的是JSP+SQL的网页管理系统，在毕业答辩上因一个老师不相信我独自完成了这个系统而吵了起来。
 
 * 2019年4月，考国家电网，然后莫名其妙考上了国网信通亿力科技。
 
@@ -22,11 +22,11 @@ group: static
 
 <div id="comment-hook">
 <!-- 多说评论框 start -->
-	<div class="ds-thread" data-thread-key="my-progress" data-title="{{ page.title }}" data-url="http://stormzhang.com{{ page.url }}"></div>
+	<div class="ds-thread" data-thread-key="my-progress" data-title="{{ page.title }}" data-url="http://VincentVanWefans.github.io{{ page.url }}"></div>
 <!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
-var duoshuoQuery = {short_name:"stormzhang"};
+var duoshuoQuery = {short_name:"VincentVanWefans"};
 	(function() {
 		var ds = document.createElement('script');
 		ds.type = 'text/javascript';ds.async = true;
