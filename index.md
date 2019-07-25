@@ -1,25 +1,25 @@
 ---
 layout: page
 title: VincentVanWfans's博客
-keywords: VincentVanWefans, android, java, performance
-description:Test Engineer,Steamer,Gamer,
+keywords: VincentVanWefans, Steam, java, State Grid
+description:Test Engineer,Steamer,Gamer,SGIT
 categories: [Java]
 ---
 {% include codepiano/setup %}
 
-## 俺的信息
+## 个人信息
 
 [VincentVanWefans的知乎个人主页](https://www.zhihu.com/people/VincentVanWefans/activities)
+
+[VincentVanWefans的GitHub个人主页]（https://github.com/VincentVanWefans ）
 
 [VincentVanWefans的steam个人资料页](https://steamcommunity.com/id/326560253/)
 
 [VincentVanWefans的奶牛关个人评测页](https://cowlevel.net/people/Vanwefans/)
 
-
 我的微信: VincentVanWefans 
 
 <img src="/image/weixin.jpg" />
-
 
 <br />
 
