@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "第一篇博文"
-tags: [Octopress]
+tags: [Diary]
 categories: [Diary]
 ---
 
