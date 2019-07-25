@@ -16,7 +16,7 @@ categories: [Java]
 
 
 * 我的微信: VincentVanWefans 
-<!--此处需插入图片-->
+<img src="/image/weixin.jpg" />
 
 
 <br />
