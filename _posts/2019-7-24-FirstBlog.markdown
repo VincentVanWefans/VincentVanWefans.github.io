@@ -2,7 +2,7 @@
 layout: post
 title: "第一篇"
 tags: [Octopress]
-categories: [Other]
+categories: [Diary]
 ---
 
 我也不知道我为什么要开这个博客，可能是自己新入职在学习Java想有点具体成功，又或许只是自己闲来无事。总之我也想快点上手工作。
