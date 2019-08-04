@@ -17,6 +17,8 @@ categories: [Java]
 
 [VincentVanWefans的奶牛关个人评测页](https://cowlevel.net/people/Vanwefans/)
 
+---
+
 我的微信: VincentVanWefans 
 
 <img src="/image/weixin.jpg" />
