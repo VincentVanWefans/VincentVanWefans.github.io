@@ -9,6 +9,8 @@ categories: [Java]
 
 ## 个人信息
 
+你好，欢迎你来参观我的地盘，虽然我很好奇你是怎么找到这种地方的~~~，但真的有人看的话，我超开心的~~~
+
 [VincentVanWefans的知乎个人主页](https://www.zhihu.com/people/VincentVanWefans/activities)
 
 [VincentVanWefans的GitHub个人主页](https://github.com/VincentVanWefans )
@@ -22,6 +24,8 @@ categories: [Java]
 我的微信: VincentVanWefans 
 
 <img src="/image/weixin.jpg" />
+
+我的百度贴吧：一定要打倒美帝
 
 <br />
 

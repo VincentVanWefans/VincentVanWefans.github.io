@@ -11,7 +11,7 @@ name = 'VincentVanWefans'
 company = '国网信通亿力科技'
 title = '测试工程师'
 skills = 'java, sql'
-email = 326560253@qq.com
+email = 'dev$#qq.com'.gsub('$#', '@')
 blog = 'http://VincentVanWefans.github.io'
 github = 'https://github.com/VincentVanWefans'
 
