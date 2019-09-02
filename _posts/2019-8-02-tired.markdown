@@ -1,9 +1,13 @@
 ---
 layout: post
+keywords: blog
+description: blog
 title: "ÀÛ"
-tags: [Test]
-categories: [Test]
+tags: [Diary]
+categories: [Diary]
+group: archive
 ---
+{% include codepiano/setup %}
 
 ## 1.³ö²î±±¾© 7.28
 
