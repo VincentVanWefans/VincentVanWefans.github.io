@@ -1,7 +1,5 @@
 ---
 layout: post
-keywords: blog
-description: blog
 title: "додЧ"
 categories: [Diary]
 tags: [Diary]
