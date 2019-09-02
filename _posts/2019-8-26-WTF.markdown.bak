@@ -1,8 +1,11 @@
 ---
 layout: post
+keywords: blog
+description: blog
 title: "ÄÏÄşÖ®ÂÃ"
 categories: [Diary]
 tags: [Diary]
+group: archive
 ---
 {% include codepiano/setup %}
 
