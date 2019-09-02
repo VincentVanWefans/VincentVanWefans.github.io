@@ -9,7 +9,7 @@ categories: [Java]
 
 ## 个人信息
 
-你好，欢迎你来参观我的地盘，虽然我很好奇你是怎么找到这种地方的~~~，但真的有人看的话，我超开心的~~~
+你好，欢迎你来参观我的地盘，虽然我很好奇你是怎么找到这种地方的~~，但如果真的有人看的话，我超开心的
 
 [VincentVanWefans的知乎个人主页](https://www.zhihu.com/people/VincentVanWefans/activities)
 
