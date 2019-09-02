@@ -5,6 +5,7 @@ description: blog
 title: "南宁之旅"
 tags: [Diary]
 categories: [Diary]
+group: archive
 ---
 
 ## 1.呼市归来
