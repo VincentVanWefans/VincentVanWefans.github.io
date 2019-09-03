@@ -3,7 +3,6 @@ layout: post
 title: "додЧ"
 categories: [Diary]
 tags: [Diary]
-group: archive
 ---
 {% include codepiano/setup %}
 
