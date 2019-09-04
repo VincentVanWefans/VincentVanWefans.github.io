@@ -4,7 +4,6 @@ title: "奇怪的问题"
 categories: [Diary]
 tags: [Diary]
 ---
-{% include codepiano/setup %}
 
 ## 好奇怪啊
 

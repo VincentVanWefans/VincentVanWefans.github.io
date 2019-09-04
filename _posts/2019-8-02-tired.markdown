@@ -4,7 +4,6 @@ title: "累"
 categories: [Diary]
 tags: [Diary]
 ---
-{% include codepiano/setup %}
 
 ## 1.出差北京 7.28
 
