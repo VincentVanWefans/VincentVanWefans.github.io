@@ -5,6 +5,7 @@ description: blog
 title: "测试01"
 categories: [Test]
 tags: [Test]
+group: archive
 ---
 {% include codepiano/setup %}
 

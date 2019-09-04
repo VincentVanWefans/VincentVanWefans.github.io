@@ -3,6 +3,7 @@ layout: post
 title: "累"
 categories: [Diary]
 tags: [Diary]
+group: archive
 ---
 {% include codepiano/setup %}
 
