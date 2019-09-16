@@ -34,7 +34,7 @@ categories: [Java]
 
 我的微信: VincentVanWefans 
 
-<img src="/image/weixin.jpg" />
+<img src="/image/weixin.jpg" width = “200” height = “200” />
 
 我的百度贴吧：一定要打倒美帝
 
