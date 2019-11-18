@@ -2,7 +2,7 @@
 layout: page
 title: VincentVanWfans's blog
 keywords: VincentVanWefans, Steam, java, State Grid
-description:Test Engineer,Steamer,Gamer,SGIT
+description:Test Engineer,Steamer,GamePlayer,SGIT
 categories: [Java]
 ---
 {% include codepiano/setup %}
