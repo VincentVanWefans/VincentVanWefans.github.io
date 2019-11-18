@@ -513,9 +513,6 @@ footer p {
     margin-left: 1em;
     margin-right: 1em;
   }
-  #duoshuo-comment {
-    margin-left: 0em;
-  }
 }
 
 /* One-column mobile display. */
@@ -689,10 +686,6 @@ footer p {
     margin-left: 4em;
     margin-right: 4em;
   }
-  #duoshuo-comment {
-    margin-left: 1em;
-    margin-right: 1em;
-  }
   #license strong {
     font-size: 12px;
     margin-left: 12px;
@@ -850,10 +843,6 @@ footer p {
     margin-left: 1em;
     margin-right: 1em;
   }
-  #duoshuo-comment {
-    margin-left: 1em;
-    margin-right: 1em;
-  }
   #license strong {
     font-size: 8px;
     margin-left: 10px;
@@ -996,10 +985,6 @@ footer p {
   #donate-table {
     margin-left: 0.8em;
     margin-right: 0.8em;
-  }
-  #duoshuo-comment {
-    margin-left: 0.8em;
-    margin-right: 0.8em
   }
   #license strong {
     font-size: 6px;

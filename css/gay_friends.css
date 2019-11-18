@@ -194,9 +194,7 @@ footer p {
 #donate-table {
   margin-left: 7.3em;
 }
-#duoshuo-comment {
-  margin-left: 0em;
-}
+
 
 /* Widescreen desktop. */
 @media (min-width: 1200px) {
@@ -318,9 +316,6 @@ footer p {
   #donate-table {
     margin-left: 1em;
     margin-right: 1em;
-  }
-  #duoshuo-comment {
-    margin-left: 0em;
   }
 }
 
@@ -490,10 +485,6 @@ footer p {
   #donate-table {
     margin-left: 4em;
     margin-right: 4em;
-  }
-  #duoshuo-comment {
-    margin-left: 1em;
-    margin-right: 1em;
   }
   #license strong {
     font-size: 12px;

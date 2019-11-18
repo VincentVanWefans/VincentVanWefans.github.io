@@ -4,7 +4,8 @@ title: "双十一"
 categories: [Diary]
 tags: [Diary]
 ---
-
+{% include codepiano/setup %}
+	
 ## 冲动消费？  
 买主机这件事由来已久，应该是大四就开始有这个想法了，其实那时的想法更像垃圾佬；  
 考虑过服务器主机、也看过准系统装机、对集显APU钟情很久；

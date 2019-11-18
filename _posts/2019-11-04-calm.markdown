@@ -4,6 +4,7 @@ title: "久违的办公室生活"
 categories: [Diary]
 tags: [Diary]
 ---
+{% include codepiano/setup %}
 
 ## 返回福州
 只有经历过了痛苦，才知道幸福得之不易。  
